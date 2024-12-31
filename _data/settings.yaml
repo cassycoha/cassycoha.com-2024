@@ -11,9 +11,9 @@ config:
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
 metadata:
   site_url: 'https://cassycoha.com'
-  site_title: Cassy Coha
-  site_subtitle_1: Art Portfolio
-  site_subtitle_2: 'Indianapolis, IN'
+  site_title: Cassy Coha | Artist Portfolio
+  site_subtitle_1: ''
+  site_subtitle_2: ''
   site_description: >
     Combining materials in my sculptural work creates a new language that
     playfully intertwines the craft of paper, fiber and wood. In my work, across
